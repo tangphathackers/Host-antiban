@@ -1,0 +1,27 @@
+0.0.0.0 local
+0.0.0.0 lan
+0.0.0.0 localhost
+0.0.0.0 ip6-localhost ip6-loopback
+fe00::0 ip6-localnet
+ff00::0 ip6-mcastprefix
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
+255.255.255.255 broadcasthost
+#
+0.0.0.0 .local
+0.0.0.0 .lan
+#
+0.0.0.0 .qq.com
+::1 .qq.com
+0.0.0.0 .QQ.com
+::1 .QQ.com
+0.0.0.0 .QQ.COM
+::1 .QQ.COM
+0.0.0.0 .tdatamaster.com
+::1 .tdatamaster.com
+0.0.0.0 .anticheatexpert.com
+::1 .anticheatexpert.com
+#
+31.13.66.35 .Facebook.com
+2a03:2880:f103:83:face:b00c:0:25de .Facebook.com
+
