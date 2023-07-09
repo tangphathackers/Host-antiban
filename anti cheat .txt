@@ -24,4 +24,6 @@ ff02::2 ip6-allrouters
 #
 31.13.66.35 .Facebook.com
 2a03:2880:f103:83:face:b00c:0:25de .Facebook.com
+#
+127.0.0.1 .truykich.vn
 
