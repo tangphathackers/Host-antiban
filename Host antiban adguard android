@@ -28,4 +28,7 @@
 ||*dnslytics.com^
 ||.*.bing.com^
 ||*bing.com^
-
+||.*.akamai.com^
+||*akamai.com^
+||.*.akam.net^
+||*akam.net^
