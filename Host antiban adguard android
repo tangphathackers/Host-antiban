@@ -38,3 +38,11 @@
 ||asia.csoversea.mbgame.anticheatexpert.com^
 ||.*.anticheatexpert.com^$important
 ||*anticheatexpert.com^$important
+||qq.com/*
+||qq.com^$third-party
+||qq.com^$document,subdocument,font,image,media,object,other,ping,script,stylesheet,websocket,xmlhttprequest,popup
+||qq.com^$all
+||qq.com^$important
+||qq.##*.com
+||qq.##*.com^$important
+||
