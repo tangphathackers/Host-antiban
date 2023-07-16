@@ -47,7 +47,7 @@
 ||qq.##*.com^$important
 ||anticheatexpert.com/*
 ||anticheatexpert.com^$third-party
-||anticheatexpert.com^$
+||anticheatexpert.com^$cookie
 ||anticheatexpert.com^$document,subdocument,font,image,media,object,other,ping,script,stylesheet,websocket,xmlhttprequest,popup
 ||anticheatexpert.com^$all
 ||anticheatexpert.##*.com
